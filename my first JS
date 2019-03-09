@@ -1,0 +1,11 @@
+<html>
+<head>
+<script>
+    var words = "my name is"
+    var somemorewords = " Alex"
+    sentence =  words + somemorewords
+    document.write(sentence)
+</script>
+</head>
+
+</html>
